@@ -17,7 +17,7 @@ IDR_SWAPAPOMFX          REGISTRY                "SwapAPOMFX.rgs"
 IDR_SWAPAPOSFX          REGISTRY                "SwapAPOSFX.rgs"
 
 // ICON
-IDI_EFFECT_ICON			RCDATA					"SwapAPO.png"
+IDI_EFFECT_ICON			RCDATA					"swapapo.png"
 
 #if 0
 1                       TYPELIB                 "SwapAPODll.tlb"
