@@ -13,7 +13,7 @@ Copyright (c) Microsoft Corporation. All Rights Reserved
 #include <Common.ver>
 
 IDR_AECAPODLL          REGISTRY                "AecApoDll.rgs"
-IDR_AECAPOMFX          REGISTRY                "AecApoMFX.rgs"
+IDR_AECAPOMFX          REGISTRY                "AecApoMfx.rgs"
 
 // ICON
 IDI_EFFECT_ICON			RCDATA					"AecApo.png"
