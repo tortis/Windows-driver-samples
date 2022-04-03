@@ -1,5 +1,5 @@
 //
-// KWSApoEFX.cpp -- Copyright (c) Microsoft Corporation. All rights reserved.
+// KWSApoEfx.cpp -- Copyright (c) Microsoft Corporation. All rights reserved.
 //
 // Description:
 //

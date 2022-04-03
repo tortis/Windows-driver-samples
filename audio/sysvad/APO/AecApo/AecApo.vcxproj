@@ -333,7 +333,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AecApoDll.cpp" />
-    <ClCompile Include="AecApoMFX.cpp" />
+    <ClCompile Include="AecApoMfx.cpp" />
     <Midl Include="AecApoDll.idl" />
     <ResourceCompile Include="AecApoDll.rc" />
   </ItemGroup>

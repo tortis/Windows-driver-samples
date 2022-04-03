@@ -1,4 +1,4 @@
-// KeywordDetectorContosoAdapter.cpp : Defines the exported functions for the DLL application.
+// KeywordDetectorContosoadapter.cpp : Defines the exported functions for the DLL application.
 //
 
 // ISSUE-2015/1/14-frankye review all error codes

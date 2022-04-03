@@ -1,5 +1,5 @@
 //
-// AecApoMFX.cpp -- Copyright (c) Microsoft Corporation. All rights reserved.
+// AecApoMfx.cpp -- Copyright (c) Microsoft Corporation. All rights reserved.
 //
 // Description:
 //

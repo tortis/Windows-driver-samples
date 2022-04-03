@@ -53,7 +53,7 @@
     <ClCompile Include="AecApoDll.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="AecApoMFX.cpp">
+    <ClCompile Include="AecApoMfx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

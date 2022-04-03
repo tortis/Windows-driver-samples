@@ -1,5 +1,5 @@
 //
-// SwapAPOSFX.cpp -- Copyright (c) Microsoft Corporation. All rights reserved.
+// swapaposfx.cpp -- Copyright (c) Microsoft Corporation. All rights reserved.
 //
 // Description:
 //

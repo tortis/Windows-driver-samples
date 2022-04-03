@@ -334,7 +334,7 @@
   <ItemGroup>
     <ClCompile Include="KWSApo.cpp" />
     <ClCompile Include="KWSApoDll.cpp" />
-    <ClCompile Include="KWSApoEFX.cpp" />
+    <ClCompile Include="KWSApoEfx.cpp" />
     <Midl Include="KWSApoDll.idl" />
     <Midl Include="KWSApoInterface.idl" />
     <ResourceCompile Include="KWSApoDll.rc" />

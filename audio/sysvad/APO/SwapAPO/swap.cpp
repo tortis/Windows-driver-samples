@@ -1,5 +1,5 @@
 //
-// Swap.cpp -- Copyright (c) Microsoft Corporation. All rights reserved.
+// swap.cpp -- Copyright (c) Microsoft Corporation. All rights reserved.
 //
 // Description:
 //

@@ -406,10 +406,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Swap.cpp" />
+    <ClCompile Include="swap.cpp" />
     <ClCompile Include="SwapAPODll.cpp" />
-    <ClCompile Include="SwapAPOMFX.cpp" />
-    <ClCompile Include="SwapAPOSFX.cpp" />
+    <ClCompile Include="swapapomfx.cpp" />
+    <ClCompile Include="swapaposfx.cpp" />
     <Midl Include="SwapAPODll.idl" />
     <Midl Include="SwapAPOInterface.idl" />
     <ResourceCompile Include="SwapAPODll.rc" />
