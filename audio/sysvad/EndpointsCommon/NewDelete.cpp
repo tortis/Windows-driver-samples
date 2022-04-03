@@ -22,7 +22,7 @@ extern "C" {
 #include <wdm.h>
 #endif
 
-#include "newDelete.h"
+#include "NewDelete.h"
 #include "sysvad.h"
 
 #pragma code_seg()

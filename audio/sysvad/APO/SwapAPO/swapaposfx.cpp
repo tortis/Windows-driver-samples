@@ -14,7 +14,7 @@
 
 #include <audioenginebaseapo.h>
 #include <baseaudioprocessingobject.h>
-#include <resource.h>
+#include <Resource.h>
 
 #include <float.h>
 

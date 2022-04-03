@@ -13,7 +13,7 @@
 #include <KWSApoInterface.h>
 #include <KWSApoDll.h>
 
-#include <commonmacros.h>
+#include <CommonMacros.h>
 #include <devicetopology.h>
 
 #include <audioengineextensionapo.h>

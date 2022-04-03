@@ -16,7 +16,7 @@ Abstract:
 #define _SYSVAD_MINWAVERTSTREAM_H_
 
 #include "savedata.h"
-#include "tonegenerator.h"
+#include "ToneGenerator.h"
 
 
 //

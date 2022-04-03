@@ -18,7 +18,7 @@ Abstract:
 #include <sysvad.h>
 #include "hw.h"
 #include "savedata.h"
-#include "IHVPrivatePropertySet.h"
+#include "ihvprivatepropertyset.h"
 #include "simple.h"
 
 #ifdef SYSVAD_BTH_BYPASS
@@ -35,14 +35,14 @@ Abstract:
 #include <usb.h>
 #include <SidebandAudio.h>
 #include <USBSidebandAudio.h>
-#include "UsbHsMinipairs.h"
+#include "usbhsminipairs.h"
 #include "UsbHsDevice.h"
 #endif // SYSVAD_USB_SIDEBAND
 
 #ifdef SYSVAD_A2DP_SIDEBAND
 #include <SidebandAudio.h>
 #include <A2DPSidebandAudio.h>
-#include "A2dpHpMinipairs.h"
+#include "a2dphpminipairs.h"
 #include "A2dpHpDevice.h"
 #endif // SYSVAD_A2DP_SIDEBAND
 

@@ -12,7 +12,7 @@
 #include <BaseAudioProcessingObject.h>
 #include <AecApoDll.h>
 
-#include <commonmacros.h>
+#include <CommonMacros.h>
 #include <devicetopology.h>
 
 #include <audioengineextensionapo.h>

@@ -14,7 +14,7 @@
 #include <SwapAPOInterface.h>
 #include <SwapAPODll.h>
 
-#include <commonmacros.h>
+#include <CommonMacros.h>
 #include <devicetopology.h>
 #include <rtworkq.h>
 

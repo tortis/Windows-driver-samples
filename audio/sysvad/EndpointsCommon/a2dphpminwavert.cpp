@@ -20,7 +20,7 @@ Abstract:
 #include "simple.h"
 #include "minwavert.h"
 #include "minwavertstream.h"
-#include "IHVPrivatePropertySet.h"
+#include "ihvprivatepropertyset.h"
 
 
 //=============================================================================

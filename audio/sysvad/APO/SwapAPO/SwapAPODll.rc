@@ -2,7 +2,7 @@
 Copyright (c) Microsoft Corporation. All Rights Reserved
 #endif
 
-#include "resource.h"
+#include "Resource.h"
 #include "winres.h"
 #include <ntverp.h>
 #define VER_FILETYPE                    VFT_DLL

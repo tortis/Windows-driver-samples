@@ -18,7 +18,7 @@ Abstract:
 #include <sysvad.h>
 #include "hw.h"
 #include "savedata.h"
-#include "IHVPrivatePropertySet.h"
+#include "ihvprivatepropertyset.h"
 #include "simple.h"
 
 #ifdef SYSVAD_A2DP_SIDEBAND

@@ -13,7 +13,7 @@
 #include <DelayAPOInterface.h>
 #include <DelayAPODll.h>
 
-#include <commonmacros.h>
+#include <CommonMacros.h>
 #include <devicetopology.h>
 
 _Analysis_mode_(_Analysis_code_type_user_driver_)

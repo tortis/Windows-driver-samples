@@ -22,7 +22,7 @@ Abstract:
 
 #include <sysvad.h>
 #include <ContosoKeywordDetector.h>
-#include "IHVPrivatePropertySet.h"
+#include "ihvprivatepropertyset.h"
 
 #include "simple.h"
 #include "minipairs.h"

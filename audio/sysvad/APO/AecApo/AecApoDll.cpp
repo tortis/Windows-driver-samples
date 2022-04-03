@@ -13,7 +13,7 @@
 #include <atlsync.h>
 #include <mmreg.h>
 
-#include "resource.h"
+#include "Resource.h"
 #include "AecApoDll.h"
 #include <AecApo.h>
 

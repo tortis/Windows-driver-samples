@@ -16,7 +16,7 @@
 #include <audioenginebaseapo.h>
 #include <audioengineextensionapo.h>
 #include <baseaudioprocessingobject.h>
-#include <resource.h>
+#include <Resource.h>
 
 #include <float.h>
 #include "SwapAPO.h"
