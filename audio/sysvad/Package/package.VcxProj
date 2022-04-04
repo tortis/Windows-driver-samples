@@ -36,10 +36,10 @@
     <ProjectReference Include="..\APO\DelayAPO\DelayAPO.vcxproj">
       <Project>{8851AB85-70B3-4798-A149-BA366DF9EC25}</Project>
     </ProjectReference>
-    <ProjectReference Include="..\APO\KWSApo\KwsAPO.vcxproj">
+    <ProjectReference Include="..\APO\KWSApo\KWSApo.vcxproj">
       <Project>{47358AD6-A48A-465B-965F-0A66F8BDFE23}</Project>
     </ProjectReference>
-    <ProjectReference Include="..\APO\AecApo\AecAPO.vcxproj">
+    <ProjectReference Include="..\APO\AecApo\AecApo.vcxproj">
       <Project>{83A1B9B0-3CB7-4249-ADEC-C336B0EDDE76}</Project>
     </ProjectReference>
     <ProjectReference Include="..\TabletAudioSample\TabletAudioSample.vcxproj">
