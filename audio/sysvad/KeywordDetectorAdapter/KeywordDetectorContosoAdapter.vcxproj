@@ -307,7 +307,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
-    <ClCompile Include="KeywordDetectorContosoadapter.cpp" />
+    <ClCompile Include="KeywordDetectorContosoAdapter.cpp" />
     <ClCompile Include="stdafx.cpp" />
     <Midl Include="KeywordDetectorContosoAdapter.idl" />
     <ResourceCompile Include="KeywordDetectorContosoAdapter.rc" />

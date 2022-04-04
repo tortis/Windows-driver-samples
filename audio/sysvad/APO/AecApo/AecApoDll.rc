@@ -9,7 +9,7 @@ Copyright (c) Microsoft Corporation. All Rights Reserved
 #define VER_FILESUBTYPE                 VFT_UNKNOWN
 #define VER_FILEDESCRIPTION_STR         "AEC APO"
 #define VER_INTERNALNAME_STR            "AecApo"
-#define VER_ORIGINALFILENAME_STR        "AecApo.Dll"
+#define VER_ORIGINALFILENAME_STR        "AecApo.dll"
 #include <Common.ver>
 
 IDR_AECAPODLL          REGISTRY                "AecApoDll.rgs"
